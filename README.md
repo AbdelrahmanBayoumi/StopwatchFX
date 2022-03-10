@@ -1,8 +1,8 @@
-# StopWatch - JavaFX
+<h1 align=center>StopWatch - JavaFX</h1>
 
 
 <div align="center">
-<img src="/StopWatch-JavaFX/screenshots/001.gif" alt= "image">
+<img src="/screenshots/001.gif" alt= "image">
 </div>
 
 <br>
@@ -13,8 +13,8 @@
 
 ## Tools & Technologies
 
-- [FontawesomeFX 8.9](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
-- [Jfoenix 8.0.8](http://www.jfoenix.com/)
+- [FontawesomeFX 8.9](https://bitbucket.org/Jerady/fontawesomefx/src/master/) for font Icons
+- [Jfoenix 8.0.8](http://www.jfoenix.com/) library is an open source Java library, that implements Google Material Design using Java components
 
 <br>
 <br>
